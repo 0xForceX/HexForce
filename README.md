@@ -37,9 +37,8 @@ To be an inclusive and collaborative cybersecurity community that fosters knowle
 
 ## 🌍 **Get Involved!**
 
-🔗 Join our discussions, contribute to open-source projects, and be a part of a growing cybersecurity network! 
-- 📢 [GitHub Discussions](https://github.com/your-repo/discussions)  
-- 💬 [LinkedIn](https://twitter.com/your-community)  
+🔗 Join our discussions, contribute to open-source projects, and be a part of a growing cybersecurity network!  
+- 💬 [LinkedIn](https://www.linkedin.com/in/hexforce-technology-605b8a34a/)  
 - 📩 Contact: **hexforce0x@gmail.com**  
 
 
