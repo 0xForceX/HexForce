@@ -1,7 +1,5 @@
 # 🛡️ HexForce - YARA & Sigma Rules Community
 
-![Community Banner](https://github.com/your-repo/banner.png)
-
 🚀 **Welcome to the Threat Intelligence Community!**  
 We develop **cutting-edge YARA & Sigma rules**, share **technical knowledge**, and foster **cybersecurity collaboration**.  
 
